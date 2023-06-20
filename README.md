@@ -7,6 +7,7 @@ Esse repositório é referente a resolução do exercício para o gerenciamento 
 # Classes criadas
 
 1. Funcionario
+
   i. Coordenador
   ii. Professor
   iii. Funcionário Administrativo
